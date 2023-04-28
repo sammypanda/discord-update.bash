@@ -4,7 +4,7 @@
 
 ##### **❕ install discord with your package manager first**
 
-##### **❕ script runs sudo**
+##### **❕ script runs sudo (requires password)**
 
 <br>
 
